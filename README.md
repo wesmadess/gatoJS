@@ -1,0 +1,1 @@
+Proyecto de ejemplo en NodeJS que simula el clásico juego del gato.
